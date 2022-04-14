@@ -1,0 +1,9 @@
+Display the department numbers and total number of employees working in each department.
+6.Display the department numbers and total salary for each department
+7.Display the department numbers and total maximum salary for each department
+8.Display the department numbers and total salary for each department whose employee count is more than 2.
+9.Display the names of HR whos earn a salary more than highest salary of Finance department.
+10.Display the name of employess who earn highest salary in their respective department?
+11.Display the name of employess who are working in Accounting department.
+12.Display the name of employess who are working in Mumbai.
+13.Display the department having total salary greater than the maximum salary for managers.
